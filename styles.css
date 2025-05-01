@@ -1,0 +1,53 @@
+﻿
+//bold
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-Bold.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+//bold italic
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-BoldItalic.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+//book
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-Book.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-Book.woff') format('woff');
+    font-weight: 450;
+    font-style: normal;
+}
+//book italic
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-BookItalic.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-BookItalic.woff') format('woff');
+    font-weight: 450;
+    font-style: italic;
+}
+
+//regular
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-Regular.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+//regular italic
+@font-face {
+    font-family: 'BatonNouveau';
+    src: url('Fonts/BatonNouveauWeb-RegularItalic.woff2') format('woff2'),
+         url('Fonts/BatonNouveauWeb-RegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1 { font-family: 'BatonNouveau', sans-serif; font-weight:700; }
